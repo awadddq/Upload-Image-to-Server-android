@@ -19,7 +19,7 @@
 		
 		$path = "uploads/$id.png";
 		
-		$actualpath = "http://simplifiedcoding.16mb.com/PhotoUploadWithText/$path";
+		$actualpath = "http://webpageURL.com/PhotoUploadWithText/$path";
 		
 		$sql = "INSERT INTO volleyupload (photo,name) VALUES ('$actualpath','$name')";
 		
