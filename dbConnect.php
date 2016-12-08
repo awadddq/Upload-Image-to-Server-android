@@ -1,8 +1,8 @@
 <?php 
 
-	define('HOST','mysql.hostinger.in');
-	define('USER','u502452270_andro');
-	define('PASS','belal_123');
-	define('DB','u502452270_andro');
+	define('HOST','write your hostname');
+	define('USER','write your username');
+	define('PASS','write your password');
+	define('DB','write database name');
 	
 	$con = mysqli_connect(HOST,USER,PASS,DB) or die('unable to connect to db');
