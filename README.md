@@ -1,4 +1,4 @@
-##تطبيق رفع التطبيقات على السيرفر باستخدام بي اتش بي
+##تطبيق رفع الصور على السيرفر باستخدام بي اتش بي
 قاعدة البيانات
 ![](https://github.com/almkhrfich/Upload-Image-to-Server-android/blob/master/11.png)
 
